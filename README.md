@@ -7,3 +7,4 @@ git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:<JosephVollOWATC>/<git-example>.git
 git push -u orgin master
+git help
